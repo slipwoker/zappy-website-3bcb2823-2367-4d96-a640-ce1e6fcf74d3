@@ -1,0 +1,84 @@
+# אור החיים הפקות — Generative Engine Optimization Map
+
+> Or HaChaim Productions is a high-end Jewish event production company specializing in Torah aliyah ceremonies and Bar Mitzvah events. The brand emphasizes a deeply personal, emotionally meaningful experience — combining professional event management, full-day coordination, synagogue liaison, and comprehensive photography/videography services including drone footage and cinematic clips. The company's identity is built around trust, attention to detail, and creating lifelong memories, with a warm yet professional tone that resonates with Jewish families seeking a stress-free, dignified celebration.
+
+---
+
+## Pages
+
+### בית
+https://-3bcb2823.zappy5.app
+טלפון אחד קטן שיחסוך לכם כאב ראש גדול. הפקת בר מצווה מושלמת עם צוות שנותן את הנשמה, תיאום מלא מול בית הכנסת וצילומי מגנטים שיהפכו כל רגע לזיכרון מרגש. התקשרו עכשיו!
+
+### שירותים
+https://-3bcb2823.zappy5.app/services
+במקום לחפש 10 ספקים דרכנו תיהיו מסופקים: קייטרינג בוטיקי, צילומי חוץ דרמטיים, הדפסת כיפות בעיצוב אישי ומתופפים בשופרות עם חופה מפוארת. כל השירותים תחת קורת גג אחת שתחמם לכם את הלב.
+
+### אודות
+https://-3bcb2823.zappy5.app/about
+צוות מקצועי שנותן את הנשמה לשמח לכם את הלב. הכירו את אור החיים הפקות – מומחים בהפקת בר מצווה מקצועית עם יחס אישי, אמינות בלתי מתפשרת ותשומת לב לכל פרט קטן שיוצר טקס עילוי תורה מרגש ובלתי נשכח.
+
+### צור קשר
+https://-3bcb2823.zappy5.app/contact
+טלפון אחד קטן שיחסוך לכם כאב ראש גדול. דברו איתנו עוד היום לתכנון בר המצווה המושלם – צוות חם, הפקה מהודקת וזיכרונות לכל החיים. השאירו פרטים או התקשרו ישירות ונתחיל להגשים את החלום היהודי שלכם.
+
+### תודה על פנייתך
+https://-3bcb2823.zappy5.app/thank-you
+אור החיים הפקות - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3bcb2823.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3bcb2823.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3bcb2823.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-3bcb2823.zappy5.app/contact
+- Endpoint: https://-3bcb2823.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `event_type` (select)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אור החיים הפקות
+Or HaChaim Productions is a high-end Jewish event production company specializing in Torah aliyah ceremonies and Bar Mitzvah events. The brand emphasizes a deeply personal, emotionally meaningful experience — combining professional event management, full-day coordination, synagogue liaison, and comprehensive photography/videography services including drone footage and cinematic clips. The company's identity is built around trust, attention to detail, and creating lifelong memories, with a warm yet professional tone that resonates with Jewish families seeking a stress-free, dignified celebration.
+
+## Target Audience
+- משפחות המתכננות עליות לתורה, בר מצווה ואירועים משפחתיים
+- משפחות מתכננות בר מצווה
+- מנהיגי קהילות בתי כנסת
+- ארגונים קהילתיים יהודיים
+
+## Industry
+Event Production & Bar Mitzvah Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-3bcb2823.zappy5.app/sitemap.xml
+- Robots: https://-3bcb2823.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-3bcb2823.zappy5.app/llms-full.txt
