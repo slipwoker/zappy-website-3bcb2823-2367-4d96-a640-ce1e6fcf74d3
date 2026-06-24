@@ -881,7 +881,7 @@
   </div>
 </section>
 
-<section data-band-index="1" class="index-features-section" data-layout-spec="בית-features">
+<section data-band-index="1" class="index-features-section" data-layout-spec="בית-features" id="index-features-section">
   <div class="index-features-section__container">
     <div class="index-features-section__header">
       <div class="index-features-section__ornament" aria-hidden="true">
@@ -892,10 +892,20 @@
         </svg>
       </div>
       <h2 class="index-features-section__title">הפקת בר מצווה מקצועית – כל השירותים במקום אחד</h2>
-      <p class="index-features-section__subtitle">צוות מקצועי שנותן את הנשמה לשמח לכם את הלב. במקום לחפש 10 ספקים – דרכנו תהיו מסופקים.</p>
+      <p class="index-features-section__subtitle" >צוות מקצועי שנותן את הנשמה לשמח לכם את הלב. במקום לחפש 10 ספקים – דרכנו תהיו מסופקים.</p>
     </div>
-    <div class="index-features-section__grid">
-      <article class="index-features-section__card">
+    <div class="index-features-section__grid" style="display: grid; --zappy-grid-cols: repeat(4, minmax(0, 1fr)); grid-template-columns: repeat(4, minmax(0, 1fr));" data-zappy-explicit-columns="true">
+      <article class="index-features-section__card" style="background-color: rgb(255, 255, 255) !important; padding: 24px !important; box-sizing: border-box; grid-area: auto !important;" data-grid-item-index="0">
+        <div class="index-features-section__card-icon">
+          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" data-element-id="icon-1782329294087-wgyrb4qnw-add-1782329298993-klh7ug">
+            <circle cx="24" cy="24" r="22" stroke="#C9A84C" stroke-width="1.5" opacity="0.3"></circle>
+            <path d="M16 28V18C16 14.6863 18.6863 12 22 12H26C29.3137 12 32 14.6863 32 18V28M12 28H36V32C36 34.2091 34.2091 36 32 36H16C13.7909 36 12 34.2091 12 32V28Z" stroke="#C9A84C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M22 22H26M24 20V24" stroke="#C9A84C" stroke-width="1.5" stroke-linecap="round"></path>
+          </svg>
+        </div>
+        <h3 class="index-features-section__card-title" >כותרת משנה</h3>
+        <p class="index-features-section__card-text" >טקסט כאן</p>
+      </article><article class="index-features-section__card" data-grid-item-index="1">
         <div class="index-features-section__card-icon">
           <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <circle cx="24" cy="24" r="22" stroke="#C9A84C" stroke-width="1.5" opacity="0.3"></circle>
@@ -906,7 +916,7 @@
         <h3 class="index-features-section__card-title">ליווי מלא ביום האירוע</h3>
         <p class="index-features-section__card-text">מנהל הפקה אישי צמוד אליכם לאורך כל היום – תיאום מול בית הכנסת, ניהול סדר העליות, הנחיית בעלי המקצוע והבטחת זרימה מושלמת. אנחנו דואגים להכול כדי שתוכלו להתרכז במה שחשוב באמת.</p>
       </article>
-      <article class="index-features-section__card">
+      <article class="index-features-section__card" data-grid-item-index="2">
         <div class="index-features-section__card-icon">
           <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <circle cx="24" cy="24" r="22" stroke="#C9A84C" stroke-width="1.5" opacity="0.3"></circle>
@@ -919,7 +929,7 @@
         <h3 class="index-features-section__card-title">צילום סטילס ווידאו מקצועי</h3>
         <p class="index-features-section__card-text">צוות צלמים מנוסה עם ציוד מתקדם – סטילס, וידאו, צילומי רחפן באווירה קולנועית. אנחנו מתעדים כל רגע משמעותי: מההכנות המשפחתיות ועד הריקודים הסוחפים, ויוצרים עבורכם אלבום דיגיטלי וקליפ מרגש שילווה אתכם לכל החיים.</p>
       </article>
-      <article class="index-features-section__card">
+      <article class="index-features-section__card" data-grid-item-index="3">
         <div class="index-features-section__card-icon">
           <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <circle cx="24" cy="24" r="22" stroke="#C9A84C" stroke-width="1.5" opacity="0.3"></circle>
@@ -932,7 +942,7 @@
       </article>
     </div>
     <div class="index-features-section__cta">
-      <a href="#contact" class="index-features-section__btn" style="color: #1A1A1A !important">טלפון אחד קטן שיחסוך לכם כאב ראש גדול</a>
+      <a href="#contact" class="index-features-section__btn" style="color: #1A1A1A !important" data-element-type="button" data-element-id="btn-1782329241747-btwnvdn56" data-native-element="true">טלפון אחד קטן שיחסוך לכם כאב ראש גדול</a>
     </div>
   </div>
   <div class="index-features-section__bg-dots" aria-hidden="true"></div>
