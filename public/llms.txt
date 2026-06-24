@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-3bcb2823.zappy5.app
+https://example.com
 טלפון אחד קטן שיחסוך לכם כאב ראש גדול. הפקת בר מצווה מושלמת עם צוות שנותן את הנשמה, תיאום מלא מול בית הכנסת וצילומי מגנטים שיהפכו כל רגע לזיכרון מרגש. התקשרו עכשיו!
 
 ### שירותים
-https://-3bcb2823.zappy5.app/services
+https://example.com/services
 במקום לחפש 10 ספקים דרכנו תיהיו מסופקים: קייטרינג בוטיקי, צילומי חוץ דרמטיים, הדפסת כיפות בעיצוב אישי ומתופפים בשופרות עם חופה מפוארת. כל השירותים תחת קורת גג אחת שתחמם לכם את הלב.
 
 ### אודות
-https://-3bcb2823.zappy5.app/about
+https://example.com/about
 צוות מקצועי שנותן את הנשמה לשמח לכם את הלב. הכירו את אור החיים הפקות – מומחים בהפקת בר מצווה מקצועית עם יחס אישי, אמינות בלתי מתפשרת ותשומת לב לכל פרט קטן שיוצר טקס עילוי תורה מרגש ובלתי נשכח.
 
 ### צור קשר
-https://-3bcb2823.zappy5.app/contact
+https://example.com/contact
 טלפון אחד קטן שיחסוך לכם כאב ראש גדול. דברו איתנו עוד היום לתכנון בר המצווה המושלם – צוות חם, הפקה מהודקת וזיכרונות לכל החיים. השאירו פרטים או התקשרו ישירות ונתחיל להגשים את החלום היהודי שלכם.
 
 ### תודה על פנייתך
-https://-3bcb2823.zappy5.app/thank-you
+https://example.com/thank-you
 אור החיים הפקות - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-3bcb2823.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-3bcb2823.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-3bcb2823.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-3bcb2823.zappy5.app/contact
-- Endpoint: https://-3bcb2823.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -79,6 +79,6 @@ Event Production & Bar Mitzvah Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-3bcb2823.zappy5.app/sitemap.xml
-- Robots: https://-3bcb2823.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-3bcb2823.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
