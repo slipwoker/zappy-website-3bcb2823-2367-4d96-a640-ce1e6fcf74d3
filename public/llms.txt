@@ -44,7 +44,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: k0548468681@gmail.com
+- Phone: 054-846-8681
+- Phone (tel): tel:0548468681
+- Address: ישראל , חולון 
 
 ### Contact form
 - URL: https://example.com/contact
@@ -52,12 +55,12 @@ Information about WCAG compliance and accessibility features.
 - Method: POST
 - Content-Type: application/json
 - Fields:
-  - `name` (text)
-  - `email` (email)
-  - `phone` (tel)
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
   - `event_type` (select)
-  - `message` (textarea)
-  - `privacy_consent` (checkbox)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
 
 ---
 
